@@ -1,0 +1,266 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lw-wc-wp-whatsapp-order\n"
+"POT-Creation-Date: 2023-08-26 20:25+0530\n"
+"PO-Revision-Date: 2021-06-07 12:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: LivelyWorks <contact@dido.pro>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"__;_e;_x: 1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-KeywordsList: __;gettext\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lw-wc-whatsapp-order.php:100
+msgid "WhatsApp Order"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:101
+msgid "Send order via WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:113
+msgid "Enable/Disable as Payment Method"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:114
+msgid "Enable WhatsApp Order at Payment Method"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:120
+msgid "Title"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:122
+msgid "Method title that the customer will see on your checkout."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:127
+msgid "Description"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:129
+msgid "Method description that the customer will see on your website."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:130
+msgid "Send your Order via WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:134
+msgid "WhatsApp Number"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:136
+msgid "Your WhatsApp Mobile Number where you want to receive orders. include your country code without leading 0 and +"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:142
+msgid "Auto Redirect"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:143
+msgid "Enable WhatsApp Order link on Thank you page or auto redirect user to WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:145
+msgid "Do you want user to auto redirect to WhatsApp or want to show link to send order."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:149 lw-wc-whatsapp-order.php:163
+msgid "Auto Redirect User to Send Order via WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:150 lw-wc-whatsapp-order.php:162
+msgid "Show the link to Send Order via WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:154
+msgid "Enable on Thank you page for other Payment Gateways"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:155
+msgid "Enable WhatsApp Order button on Order Thank you page for other payment gateways"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:157
+msgid "Choose whatever you want to have send order via WhatsApp for other payment methods on thank you page."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:161
+msgid "No"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:167
+msgid "Instructions"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:169
+msgid "Instructions that will be added to the thank you page."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:174
+msgid "Enable for shipping methods"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:179
+msgid "If WhatsApp Order is only available for certain methods, set it up here. Leave blank to enable for all methods."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:183
+msgid "Select shipping methods"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:187
+msgid "Accept for virtual orders"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:188
+msgid "Accept WhatsApp Order if the order is virtual"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:193
+msgid "Disable Other Payment Gateways at Checkout"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:194
+msgid "Check if you want to disable other payment gateways at checkout"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:195
+msgid "It will disable all other payment gateways at checkout but on Order Pay page it will be enabled."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:201
+msgid "Send Payment/Pay Now link"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:202
+msgid "Check if you want to send payment link in order message"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:203
+msgid "User will be able to make payment using available payment gateways via the provided link."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:208 lw-wc-whatsapp-order.php:209
+msgid "Send Order Meta Data"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:210
+msgid "If you are using any plugin for custom fields for checkout etc, you may need to enable it, so that data should be in WhatsApp Message"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:215
+msgid "Ignore Order Meta Fields"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:217
+msgid "Add your comma separated field names here, so it can be ignore for the WhatsApp order message. Fields starts with _ (underscore) will be ignored by default."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:241
+#, php-format
+msgid "Please enter your WhatsApp Mobile Number <a href=\"%s\">here</a> to be able to Receive Order via WhatsApp using WhatsApp Order - WhatsApp WooCommerce Ordering plugin."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:365
+#, php-format
+msgid "Any &quot;%1$s&quot; method"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:378
+#, php-format
+msgid "%1$s (#%2$s)"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:381
+#, php-format
+msgid "%1$s &ndash; %2$s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:381
+msgid "Other locations"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:488
+msgid "Payment to be made."
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:511 lw-wc-whatsapp-order.php:680
+msgid "Send Order by WhatsApp"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:512 lw-wc-whatsapp-order.php:681
+msgid "Your order is received in the system and you can send the same order via WhatsApp "
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:514 lw-wc-whatsapp-order.php:683
+msgid "Please wait while we redirect you to send order using WhatsApp ... "
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:577
+msgid "Note:"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:584
+msgid "Billing address:"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:590
+msgid "Shipping address:"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:612
+msgid "Pay Now"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:615
+msgid "View Order"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:619
+#, php-format
+msgid "Order number    : %s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:621
+#, php-format
+msgid "Date            : %s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:622
+#, php-format
+msgid "Email           : %s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:623
+#, php-format
+msgid "Total Amount    : %s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:624
+msgid "Order details:"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:625
+#, php-format
+msgid "New Order Received @ %s"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:665
+msgid "Thank you"
+msgstr ""
+
+#: lw-wc-whatsapp-order.php:766
+msgid "Settings"
+msgstr ""

@@ -1,0 +1,5 @@
+.woocommerce-checkout-payment .wc_payment_methods .payment_method_dido-whatsapp-order img {
+    max-height: 24px;
+    max-width: 200px;
+    float: right;
+}
